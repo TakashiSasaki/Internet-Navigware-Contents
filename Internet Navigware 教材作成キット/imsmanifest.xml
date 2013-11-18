@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<manifest identifier="Manifest" version="1.1" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+   <metadata/>
+   <organizations>
+      <organization identifier="O0001">
+         <title>まなぶ君教材サンプル</title>
+         <item identifier="I0001">
+            <title>代表学習項目３</title>
+            <item identifier="I0002">
+               <title>学習項目３－１</title>
+               <item identifier="I0003">
+                  <title>フレーム３－１－１</title>
+                  <item identifier="I0004" identifierref="R0004">
+                     <title>フレーム３－１－１</title>
+                  </item>
+                  <item identifier="I0005" identifierref="R0005">
+                     <title>フレーム３－１－１</title>
+                  </item>
+               </item>
+            </item>
+         </item>
+         <item identifier="I0006">
+            <title>代表学習項目２</title>
+            <item identifier="I0007">
+               <title>学習項目２－１</title>
+               <item identifier="I0008">
+                  <title>フレーム２－１－１</title>
+                  <item identifier="I0009" identifierref="R0009">
+                     <title>フレーム２－１－１</title>
+                  </item>
+                  <item identifier="I0010" identifierref="R0010">
+                     <title>フレーム２－１－１</title>
+                  </item>
+               </item>
+            </item>
+         </item>
+         <item identifier="I0011">
+            <title>代表学習項目１</title>
+            <item identifier="I0012">
+               <title>学習項目１－２</title>
+               <item identifier="I0013">
+                  <title>フレーム１－２－３</title>
+                  <item identifier="I0014" identifierref="R0014">
+                     <title>フレーム１－２－３</title>
+                  </item>
+               </item>
+               <item identifier="I0015">
+                  <title>フレーム１－２－２</title>
+                  <item identifier="I0016" identifierref="R0016">
+                     <title>フレーム１－２－２</title>
+                  </item>
+               </item>
+               <item identifier="I0017">
+                  <title>フレーム１－２－１</title>
+                  <item identifier="I0018" identifierref="R0018">
+                     <title>フレーム１－２－１</title>
+                  </item>
+               </item>
+            </item>
+            <item identifier="I0019">
+               <title>学習項目１</title>
+               <item identifier="I0020">
+                  <title>フレーム１</title>
+                  <item identifier="I0021" identifierref="R0021">
+                     <title>フレーム１</title>
+                  </item>
+               </item>
+            </item>
+         </item>
+      </organization>
+   </organizations>
+   <resources>
+      <resource identifier="R0004" type="webcontent" adlcp:scormtype="sco" href="haimeni-2.htm">
+         <file href="haimeni-2.htm"/>
+      </resource>
+      <resource identifier="R0005" type="webcontent" adlcp:scormtype="sco" href="hajimeni-1.htm">
+         <file href="hajimeni-1.htm"/>
+      </resource>
+      <resource identifier="R0009" type="webcontent" adlcp:scormtype="sco" href="owarini-2.htm">
+         <file href="owarini-2.htm"/>
+      </resource>
+      <resource identifier="R0010" type="webcontent" adlcp:scormtype="sco" href="owarini-1.htm">
+         <file href="owarini-1.htm"/>
+      </resource>
+      <resource identifier="R0014" type="webcontent" adlcp:scormtype="sco" href="scorm-shuuryou-button-tsuki.htm">
+         <file href="scorm-shuuryou-button-tsuki.htm"/>
+      </resource>
+      <resource identifier="R0016" type="webcontent" adlcp:scormtype="sco" href="setsumei-1-2-1-2.htm">
+         <file href="setsumei-1-2-1-2.htm"/>
+      </resource>
+      <resource identifier="R0018" type="webcontent" adlcp:scormtype="sco" href="setumei-1-2-1-1.htm">
+         <file href="setumei-1-2-1-1.htm"/>
+      </resource>
+      <resource identifier="R0021" type="webcontent" adlcp:scormtype="sco" href="question1.htm">
+         <file href="question1.htm"/>
+      </resource>
+   </resources>
+</manifest>

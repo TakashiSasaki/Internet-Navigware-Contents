@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<manifest identifier="AFNLxlHY4fdej" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>2004 4th Edition</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:string>教材タイトル PowerPoint 2003 SP3</lom:string>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicalLearningTime>
+					<lom:duration>PT1H0M0S</lom:duration>
+				</lom:typicalLearningTime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="organization">
+		<organization identifier="organization">
+			<title>教材タイトル PowerPoint 2003 SP3</title>
+			<item identifier="item" identifierref="resource">
+				<title>教材タイトル PowerPoint 2003 SP3</title>
+			</item>
+			<imsss:sequencing>
+				<imsss:controlMode flow="true"/>
+			</imsss:sequencing>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormType="sco" href="res/index.html">
+			<file href="res/index.html"/>
+			<file href="res/lms.js"/>
+			<file href="res/empty.html"/>
+			<file href="res/data/player.js"/>
+			<file href="res/data/images/apple-touch-icon.png"/>
+			<file href="res/data/images/favicon.ico"/>
+			<file href="res/data/images/html5.png"/>
+			<file href="res/data/images/img0.jpg"/>
+			<file href="res/data/images/img1.png"/>
+			<file href="res/data/images/img10.gif"/>
+			<file href="res/data/images/img11.gif"/>
+			<file href="res/data/images/img12.gif"/>
+			<file href="res/data/images/img13.jpg"/>
+			<file href="res/data/images/img2.png"/>
+			<file href="res/data/images/img3.png"/>
+			<file href="res/data/images/img4.png"/>
+			<file href="res/data/images/img5.png"/>
+			<file href="res/data/images/img6.png"/>
+			<file href="res/data/images/img7.gif"/>
+			<file href="res/data/images/img8.gif"/>
+			<file href="res/data/images/img9.gif"/>
+			<file href="res/data/images/thmb1.png"/>
+			<file href="res/data/images/thmb2.png"/>
+			<file href="res/data/images/thmb3.png"/>
+			<file href="res/data/images/thmb4.png"/>
+			<file href="res/data/images/thmb5.png"/>
+			<file href="res/data/fonts/fnt0.woff"/>
+			<file href="res/data/fonts/fnt1.woff"/>
+		</resource>
+	</resources>
+</manifest>
